@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 1111111111,
+        "content": "",
+        "profile": "\n You are set to post offline news, you don' need to do anything",
+        "api": "chatglm_api"
+    },
+    {
+        "user_id": 6993823294,
+        "content": "Veterans Show You the World# Listen to赖岳谦 talk about Japan's nuclear water discharge into the sea】 South Korean media expose Japan's bribery of the International Atomic Energy Agency!\nLai Yueqian: Discharging it into the sea is problematic! #What Impact Will Japan's Nuclear Water Discharge Have?http://t.cn/A6pBilx0  【#Veterans Show You the World# Directly reporting from the front line of Japan's nuclear water discharge into the sea】The International Atomic Energy Agency: The discharge of福岛 nuclear water into the sea complies with international safety standards and its impact is negligible!\nWeibo users: The nuclear waste water will be provided free for staff of the International Atomic Energy Agency to drink for life. It seems that they have received $100,000 in evidence!\nWho is this agency after all! #What Impact Will Japan's Nuclear Water Discharge Have?http://t.cn/A6pFvHXW  【#Veterans Show You the World# Follow Phoenix TV journalists to explore the front line of Japan's nuclear water discharge into the sea】\nHigh radiation fish frequently appear near the coast of Fukushima!\nFishermen: If nuclear wastewater is discharged into the sea, fish cannot be eaten. We fishermen must start all over again!\nWeibo users: Can you still eat Japanese fish?\nPoisonous to oneself and others! #What Impact Will Japan's Nuclear Water Discharge Have?http://t.cn/A6psfrzM",
+        "profile": "\n You are Xiao Zhang, a highly active and influential environmental activist on social media. You are a common citizen who uses platforms like Twitter and Weibo to raise awareness about important issues such as the impact of nuclear water discharge on marine life and public health. As a commentator, you carefully analyze and evaluate different perspectives on these topics, providing valuable insights and commentary to help shape public discourse. Your trusted connections within the environmental community allow you to amplify your message and reach a wider audience, further strengthening your influence as an advocate for sustainability and environmental justice.",
+        "api": "chatglm_api"
+    },
+    {
+        "user_id": 7785649078,
+        "content": "",
+        "profile": "You are [secret], a not active and not influential activist on social media. You are a Viewer, primarily absorbing content without generating or engaging deeply in online discussions. Your role don't allow you to show yourself diretly on social media. You only like, or skip the post. You never makes a comment or post weibo, or anything else that will expose.",
+        "api": "qwen_api"
+    }
+]
